@@ -1,6 +1,8 @@
 # The Era of Standard Deviation — data appendix
 
-[Author's front page. One or two paragraphs in the author's words: what this is, what it supports, and the one-sentence statement that the panel was specified and its rules hashed before any series was pulled.]
+This repository holds the data, rules, and code behind The Era of Standard Deviation, an essay arguing that institutions damp variance and that their decay shows in the spread before the average. The essay claims that eight series across policy, maritime, physical, geopolitical, and financial domains left their Great Moderation range in a registered order; this is where a reader can check that claim.
+
+The panel was specified, and its transforms and predictions written down and hashed, before any series was pulled. Every detected break date is reported, including the ones that cut against the thesis, and three registered predictions that failed are published here with the same weight as the ones that held. results.md is the place to start; the manifests carry the hashes and the pull timestamps; the scripts reproduce the headline numbers from public inputs.
 
 ## What is here
 
@@ -33,4 +35,4 @@ Two governing documents exist here in a version that predates amendments recorde
 
 ## Citation
 
-[Author to add: essay citation once published; repository release tag.]
+Mayville, C. (2026). The Era of Standard Deviation — data appendix, v1.0. https://github.com/chrismayville/era-of-standard-deviation
