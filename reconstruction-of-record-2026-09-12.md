@@ -78,6 +78,6 @@ r1's stated boundary — that surviving files could not establish the intra-day 
 
 ## 6. Author ratification
 
-[ ] Ratified as a correction of record — Chris Mayville, date: ________
+[X ] Ratified as a correction of record — Chris Mayville, date: 17 September 2026
 
 Open question for the author, if memory serves: the subject of deviation 8.
